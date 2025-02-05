@@ -57,7 +57,7 @@ MarkupSafe==3.0.2
 matplotlib==3.10.0
 matplotlib-inline==0.1.7
 mistune==3.1.0
--e git+ssh://git@github.com/Ujjwal-v19/mlproject.git@c908a327d3f6c035d09a8ee8855bf48250d67835#egg=mlproject
+-e git+https://github.com/Ujjwal-v19/mlproject.git@c908a327d3f6c035d09a8ee8855bf48250d67835#egg=mlproject
 nbclient==0.10.2
 nbconvert==7.16.5
 nbformat==5.10.4
