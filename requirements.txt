@@ -1,7 +1,7 @@
 numpy
 pandas
 seaborn
--e git+https://github.com/Ujjwal-v19/mlproject.git@c908a327d3f6c035d09a8ee8855bf48250d67835#egg=mlproject
+-e .
 matplotlib
 scikit-learn
 catboost
@@ -9,3 +9,4 @@ xgboost
 flask
 dill
 gunicorn
+git+https://github.com/Ujjwal-v19/mlproject.git@c908a327d3f6c035d09a8ee8855bf48250d67835#egg=mlprojectgit+https://github.com/Ujjwal-v19/mlproject.git@c908a327d3f6c035d09a8ee8855bf48250d67835#egg=mlproject
